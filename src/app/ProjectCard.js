@@ -12,7 +12,7 @@ const ProjectCard = ({ title, description, imageUrl, linkUrl }) => {
           <img
             src={imageUrl}
             alt={title}
-            className="mb-4 rounded-md object-cover w-full h-40 md:h-60 lg:h-80 transition-transform transform hover:scale-110"
+            className="mb-4 rounded-md object-cover w-full h-40 md:h-60 lg:h-80 transition-transform transform hover:scale-120"
             style={{ transition: "transform 0.3s", zIndex: 1 }}
           />
         </div>
@@ -24,6 +24,7 @@ const ProjectCard = ({ title, description, imageUrl, linkUrl }) => {
             <p className="text-white mb-4">{description}</p>
           </div>
         </div>
+        <div className={styles.hoverEffect}></div>
       </div>
     </a>
   );

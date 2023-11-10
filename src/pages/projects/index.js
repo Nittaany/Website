@@ -26,28 +26,32 @@ const projects = [
     title: "E-Waste Locator",
     description:
       "A project developed during Smart India Hackathon (SIH'23) by our team. It tracks local E-waste disposal areas and features an interactive chatbot for information about E-waste. Built with Next.js.",
-    imageUrl: "/project3.jpg",
+    imageUrl:
+      "https://drive.google.com/uc?export=view&id=15nuDws4fk6dbiucH99Uv3auI1yOYIqgV",
     linkUrl: "https://zenith-sih-1392.vercel.app/",
   },
   {
     title: "ATM Banking System",
     description:
       "A basic C-language mini-project created as part of my learning journey.",
-    imageUrl: "/project4.jpg",
+    imageUrl:
+      "https://drive.google.com/uc?export=view&id=1BkEDzr0g3TrvLQhyFBS2042V0jdBdLxu",
     linkUrl: "https://example.com/project4",
   },
   {
     title: "Car Rental System",
     description:
       "A basic car rental system mini-project developed during my journey of learning C++.",
-    imageUrl: "/project5.jpg",
+    imageUrl:
+      "https://drive.google.com/uc?export=view&id=1Wtw2XU04tGmTMWof8aT5kQaO9vbZ0rgJ",
     linkUrl: "https://example.com/project5",
   },
   {
     title: "Weather App",
     description:
       "A clean weather app created using Python Tkinter with API integration for live updates.",
-    imageUrl: "/project6.jpg",
+    imageUrl:
+      "https://drive.google.com/uc?export=view&id=1V5nYzn0a5BEH-g6ZjgL8qBb8gtLXohsD",
     linkUrl: "https://example.com/project6",
   },
   {
@@ -61,7 +65,8 @@ const projects = [
     title: "Micro-processor Based Water Level Controller",
     description:
       "A project based on Arduino Uno that monitors the water level in a tank and can control the pump accordingly.",
-    imageUrl: "/project8.jpg",
+    imageUrl:
+      "https://drive.google.com/uc?export=view&id=1hc6RkYuLSvmLPYgNpeEpWLmnh9gQjbId",
     linkUrl: "https://example.com/project8",
   },
 ];

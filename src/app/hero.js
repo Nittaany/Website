@@ -34,7 +34,7 @@ const Hero = () => {
         a glimpse into my journey as a developer.
       </p>
       <p>
-        <a href="#projects" className="text-blue-300 underline">
+        <a href="/projects/" className="text-blue-300 underline">
           Take me to the magic land ↗
         </a>
       </p>
