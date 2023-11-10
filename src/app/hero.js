@@ -15,7 +15,7 @@ const Hero = () => {
       </Head>
       <div className="img-container mb-6">
         <Image
-          src="/images/satyam.jpg"
+          src="/images/Satyam.jpg"
           alt="profile-pic"
           width={300}
           height={300}
